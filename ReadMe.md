@@ -1,4 +1,5 @@
-![Background Image](image.jpg){: .centered :color=355C7D}
+![Background Image](![ales-nesetril-Im7lZjxeLhg-unsplash](https://github.com/r-square-08/r-square-08/assets/113768252/2484329a-4115-4084-b54f-068efbfc0df5)
+){: .centered :color=355C7D}
 # 💫 About Me:
 ## About Me<br><br>Hello! I'm a third-year engineering student specializing in Artificial Intelligence and Machine Learning from Mathura, Uttar Pradesh, India. I have a strong foundation in mathematics, statistics, and programming languages such as Python, C++, SQL.<br><br><br>I'm currently seeking an internship opportunity where I can further hone my skills and contribute to real-world projects. <br><br>I'm a quick learner, a team player, and am always excited about solving complex problems.
 
