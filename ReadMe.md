@@ -1,3 +1,4 @@
+![Background Image](image.jpg){: .centered :color=355C7D}
 # 💫 About Me:
 ## About Me<br><br>Hello! I'm a third-year engineering student specializing in Artificial Intelligence and Machine Learning from Mathura, Uttar Pradesh, India. I have a strong foundation in mathematics, statistics, and programming languages such as Python, C++, SQL.<br><br><br>I'm currently seeking an internship opportunity where I can further hone my skills and contribute to real-world projects. <br><br>I'm a quick learner, a team player, and am always excited about solving complex problems.
 
