@@ -1,5 +1,5 @@
 # 💫 About Me:
-## About Me<br><br>Hello! I'm a third-year engineering student specializing in Artificial Intelligence and Machine Learning from Mathura, Uttar Pradesh, India. I have a strong foundation in mathematics, statistics, and programming languages such as Python, C++, SQL.<br><br><br>I'm currently seeking an internship opportunity where I can further hone my skills and contribute to real-world projects. <br>
+## About Me<br><br>Hello! I'm a final-year engineering student specializing in Artificial Intelligence and Machine Learning from Mathura, Uttar Pradesh, India. I have a strong foundation in mathematics, statistics, and programming languages such as Python, C++, SQL.<br><br><br>I'm currently doing an internship at VML commerce, Noida<br>
 ![Leetcode Stats](https://leetcard.jacoblin.cool/raja_ravindra?theme=unicorn)
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/ravindraraja) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/RajaXRavindra) 
